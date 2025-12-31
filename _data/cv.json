@@ -22,7 +22,7 @@
   },
   "work": [
     {
-      "name": "Safa Foulad Co.",
+      "company": "Safa Foulad Co.",
       "position": "Mechanical Engineer / Head of Technical Office",
       "startDate": "2017-04",
       "endDate": "Present",
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "name": "Charkh Gardoon Co.",
+      "company": "Charkh Gardoon Co.",
       "position": "Co-Founder / Mechanical Engineer",
       "startDate": "2014-01",
       "endDate": "2017-04",
@@ -59,11 +59,11 @@
       ]
     },
     {
-      "name": "Safa Foulad Co.",
+      "company": "Safa Foulad Co.",
       "position": "Mechanical Engineer",
       "startDate": "2010-01",
       "endDate": "2014-01",
-      "summary": "Two 30000 Nm3 Oxygen plants (EPC Project) in association with Hangyang Co.",
+      "summary": "Two 30000 Nm3 oxygen plants (EPC Project) in association with Hangyang Co.",
       "highlights": [
         "Collaborated with Hanguang, Atlas Copco, and Ingersoll-Rand.",
         "Installed and commissioned two 30000 Nm3 oxygen plants.",
