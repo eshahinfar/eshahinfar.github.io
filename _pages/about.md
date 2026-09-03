@@ -1,9 +1,9 @@
 ---
-permalink: /
+permalink: /about/
 title: "Ehsan Shahinfar | Mechanical Design Engineer"
 author_profile: true
 redirect_from:
-  - /about/
+  - /
   - /about.html
 ---
 
